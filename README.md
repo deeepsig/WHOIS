@@ -28,6 +28,6 @@
 
 - [:date:] I **HACK** on Mondays, Wednesdays and Fridays and **DEVELOP** on Tuesdays,Thursdays and Saturdays. Just so that I'm in sink with both </br>
   </br>
-- [:date:] Sundays are reserved for some [Editing!](https://www.instagram.com/_dgworks_/) and [digital art!](https://www.instagram.com/_dgworks_/) </br>
+- :date: Sundays are reserved for some [Editing!](https://www.instagram.com/_dgworks_/) and [digital art!](https://www.instagram.com/_dgworks_/) </br>
   </br>
 - [:toolbox:] I share all my learnings on [Twitter!](https://twitter.com/Mr_dg_wick) like blogs that I read , tools , writeups of vulnerabilities and anything that I think could benefit the community. </br>
