@@ -22,7 +22,7 @@
 ### About Me 🚀
 
 👨‍💻 I'm a _DevHacker_. Hehe,ya kinda fancy word, but what I mean is that I like to build , anlayse what I built and than to break it </br>
-🎓 I'm an undergrad at **NITW** pursuing my bachelors in bio technology </br>
+🎓 I'm an undergrad at **NITW** pursuing my bachelors in Bio Technology </br>
 
 ### How My Life Goes Daily 🙌
 
